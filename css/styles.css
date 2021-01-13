@@ -96,7 +96,6 @@ nav {
     text-decoration: none;
     list-style: none;
     list-style-type: none;
-    width: 10%;
 }
 .icon {
     cursor: pointer;
@@ -118,7 +117,7 @@ nav li {
 
 .header-icons {
     display: inline-block;
-    width: 10%;
+    width: 15%;
     border-right: 3px solid rgba(211, 196, 196, 0.788);
     border-left: 3px solid rgba(211, 196, 196, 0.788);
     padding-left: 50px;
