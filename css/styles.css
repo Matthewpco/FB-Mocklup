@@ -328,12 +328,13 @@ nav li {
     border-bottom: 3px solid var(--main-gray);
     list-style: none;
     text-align: center;
+    transition: all .3s ease-in-out;
 }
 
 .mcol-iconbar ul li:hover {
     color: var(--off-blue);
     border-bottom: 3px solid var(--off-blue);
-    transition: .4s ease-in-out;
+    
 }
 
 .mcol-iconbar span {
