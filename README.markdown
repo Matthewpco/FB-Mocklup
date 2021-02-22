@@ -1,6 +1,6 @@
 
 
-![](https://raw.githubusercontent.com/Matthewpco/FB-Mockup/master/img/fb-mockup-ss2.png)
+![](https://raw.githubusercontent.com/Matthewpco/FB-Mockup/master/img/fb-mockup-ss3.png)
 
 # This is my social media mockup website. 
 
