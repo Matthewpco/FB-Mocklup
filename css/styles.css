@@ -435,3 +435,9 @@ nav li {
         margin-left: 29%;
     }
 }
+
+@media (min-width: 1400px) {
+    .header-search {
+        margin-left: 36%;
+    }
+}
